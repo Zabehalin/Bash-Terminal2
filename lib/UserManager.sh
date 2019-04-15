@@ -78,6 +78,7 @@ then
 elif (($vybir == 4))
 then 
 	Newug;
+
 	
 fi
 
